@@ -3,8 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://direct.org/post/blah/</loc>
+    <lastmod>2021-03-08T11:28:45-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://direct.org/categories/</loc>
+    <lastmod>2021-03-08T11:12:20-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://direct.org/category/demo/</loc>
+    <lastmod>2021-03-08T11:12:20-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://direct.org/</loc>
-    <lastmod>2021-02-23T10:54:54-05:00</lastmod>
+    <lastmod>2021-03-08T11:28:45-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://direct.org/post/example-video-post/</loc>
+    <lastmod>2021-03-08T11:12:20-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://direct.org/post/</loc>
+    <lastmod>2021-03-08T11:28:45-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://direct.org/tags/</loc>
+    <lastmod>2021-03-08T11:12:20-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://direct.org/tag/video/</loc>
+    <lastmod>2021-03-08T11:12:20-08:00</lastmod>
   </url>
   
   <url>
@@ -14,11 +49,6 @@
   
   <url>
     <loc>http://direct.org/post/matt-s-kickass-video-of-doom/</loc>
-    <lastmod>2021-02-23T10:54:54-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://direct.org/post/</loc>
     <lastmod>2021-02-23T10:54:54-05:00</lastmod>
   </url>
   
@@ -33,22 +63,7 @@
   </url>
   
   <url>
-    <loc>http://direct.org/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://direct.org/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc></loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://direct.org/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,6 +128,10 @@
   
   <url>
     <loc>http://direct.org/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>http://direct.org/mission/</loc>
   </url>
   
 </urlset>

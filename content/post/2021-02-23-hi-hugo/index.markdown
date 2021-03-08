@@ -17,4 +17,10 @@ image:
 projects: []
 ---
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-1-1.png" width="672" />
+### Figs originating from .Rmd files need to be knitted prior to a build
+
+* The knit creates the `.md` file, which then gets picked up by the build. 
+
+{{< tweet 852205086956818432 >}}
+
+<img src="index_files/figure-html/unnamed-chunk-1-1.png" width="672" />

@@ -2,7 +2,6 @@ blogdown::config_Rprofile() # if .Rprofile exists, this opens it; if not, create
 # blogdown::new_site(theme = "wowchemy/starter-blog") #only needs to be run once
 blogdown::serve_site() #run this after restarting R
 
-
 blogdown::stop_server()
 #after editing .Rmarkdown, Knit (ctrl+shift+k) to generate markdown.
 # blogdown::new_post(title = "Matt's kickass video of doom",

@@ -5,7 +5,7 @@
     <link>http://direct.org/post/</link>
       <atom:link href="http://direct.org/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://direct.org/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
@@ -13,11 +13,31 @@
     </image>
     
     <item>
+      <title>blah</title>
+      <link>http://direct.org/post/blah/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://direct.org/post/blah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Video Post</title>
+      <link>http://direct.org/post/example-video-post/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://direct.org/post/example-video-post/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=IAM94B73bzE&#34;&gt;https://www.youtube.com/watch?v=IAM94B73bzE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hi Hugo</title>
       <link>http://direct.org/post/hi-hugo/</link>
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
       <guid>http://direct.org/post/hi-hugo/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://direct.org/post/hi-hugo/index_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Anyone know of an R package for interfacing with Alexa Skills? &lt;a href=&#34;https://twitter.com/thosjleeper?ref_src=twsrc%5Etfw&#34;&gt;@thosjleeper&lt;/a&gt; &lt;a href=&#34;https://twitter.com/xieyihui?ref_src=twsrc%5Etfw&#34;&gt;@xieyihui&lt;/a&gt; &lt;a href=&#34;https://twitter.com/drob?ref_src=twsrc%5Etfw&#34;&gt;@drob&lt;/a&gt; &lt;a href=&#34;https://twitter.com/JennyBryan?ref_src=twsrc%5Etfw&#34;&gt;@JennyBryan&lt;/a&gt; &lt;a href=&#34;https://twitter.com/HoloMarkeD?ref_src=twsrc%5Etfw&#34;&gt;@HoloMarkeD&lt;/a&gt; ?&lt;/p&gt;&amp;mdash; Jeff Leek (@jtleek) &lt;a href=&#34;https://twitter.com/jtleek/status/852205086956818432?ref_src=twsrc%5Etfw&#34;&gt;April 12, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
 </description>
     </item>
     
@@ -216,7 +236,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-145286973&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-468537912&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -226,7 +246,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-145286973&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-468537912&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
