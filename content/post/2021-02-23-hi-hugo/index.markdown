@@ -24,3 +24,11 @@ projects: []
 {{< tweet 852205086956818432 >}}
 
 <img src="index_files/figure-html/unnamed-chunk-1-1.png" width="672" />
+
+
+
+```r
+blogdown::shortcode("youtube", "CjTLN-FXiFA")
+```
+
+<!--html_preserve-->{{% youtube "CjTLN-FXiFA" %}}<!--/html_preserve-->

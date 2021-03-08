@@ -19,6 +19,7 @@ projects: []
 
 ### Figs originating from .Rmd files need to be knitted prior to a build
 
+* knitting example with videos
 * The knit creates the `.md` file, which then gets picked up by the build. 
 
 {{< tweet 852205086956818432 >}}
@@ -33,4 +34,9 @@ oplot <- ggplot(Orange, aes(x = age,
   guides(colour = FALSE) +
   theme_bw()
 oplot
+```
+
+
+```{r, eval=TRUE}
+blogdown::shortcode("youtube", "CjTLN-FXiFA")
 ```

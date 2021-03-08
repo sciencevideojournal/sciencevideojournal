@@ -19,4 +19,8 @@ image:
 projects: []
 ---
 
-https://www.youtube.com/watch?v=IAM94B73bzE
+## example without using Rmd/Knitting
+
+{{< tweet 852205086956818432 >}}
+
+{{< youtube CjTLN-FXiFA >}}

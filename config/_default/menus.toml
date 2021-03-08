@@ -17,3 +17,9 @@
   name = "Mission"
   url = "mission/"
   weight = 20
+  
+  [[main]]
+  name = "Posts"
+  url = "post/"
+  weight = 20
+
