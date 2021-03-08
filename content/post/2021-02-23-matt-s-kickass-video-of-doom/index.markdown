@@ -1,6 +1,6 @@
 ---
 title: Matt's kickass video of doom
-author: 'Albert Schweizer'
+author: 'whois Albert Schweizer'
 date: '2021-02-23'
 slug: matt-s-kickass-video-of-doom
 categories: []
@@ -17,11 +17,20 @@ image:
 projects: []
 ---
 
-### This summer...
+# REAL TIME EDITING
 
-### One dot...
+### This summer...BLACK KEYS
+
+* "Weight of Love" is a real banger
+
+### One dot...dafeq
+
+* Always remember to save your Discover Weekly list, there are some real bangers there
 
 ### Will traverse the entire state of CO to a Lemon Jelly soundtrack!
 
 # Behold:
+
+* CANNOT BE BEHOLDEN
+
 <img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-1-1.png" width="672" />
