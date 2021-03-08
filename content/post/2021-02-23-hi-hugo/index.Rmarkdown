@@ -17,6 +17,8 @@ image:
 projects: []
 ---
 
+### This ggplot fig was just generated in an Rmd chunk 
+
 ```{r echo=FALSE}
 library(ggplot2)
 oplot <- ggplot(Orange, aes(x = age, 

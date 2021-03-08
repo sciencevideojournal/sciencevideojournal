@@ -14,3 +14,5 @@ blogdown::stop_server()
 #                    subdir = "post")
 #
 #
+
+blogdown::hugo_build()
