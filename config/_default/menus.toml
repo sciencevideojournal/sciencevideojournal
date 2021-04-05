@@ -18,8 +18,12 @@
   url = "mission/"
   weight = 20
   
-  [[main]]
+[[main]]
   name = "Posts"
   url = "post/"
   weight = 20
 
+[[main]]
+  name = "Get started"
+  url = "get-started/"
+  weight = 20
