@@ -20,6 +20,10 @@ title: Get started
 
 # DIRECT: Science Video Journal
 
+[How Distill publishes](https://distill.pub/journal/)
+
+[How JOVE accepts video submissions](https://www.jove.com/authors/submit)
+
 * can we forget the things I said when I was writing that CSS?
 
 # Make a video
