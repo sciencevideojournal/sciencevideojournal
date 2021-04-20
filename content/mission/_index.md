@@ -18,24 +18,44 @@ superuser: true
 title: Mission
 ---
 
-# DIRECT: Science Video Journal
+# DIRECT: Science Video Platform
 
 + `DIRECT`: **D**irect **I**nnovation & **R**esearch to **E**ngage **C**ommuniies **T**oday
 
 ## Mission Statement
 
-Two critical problems in society motivate the formation of this journal. First there is a growing disconnect between scientists and society, driven by 
-misinformation campaigns and culture wars, but also driven by the fundamental disconnect between how we (scientists) publish our work and how
-the average citizen engages with information, which brings up the second problem: scientific publishing is broken. The core ideas that generated scientific publishing remain critical to scientific progress: peer-review, a continuously updating scientific knowledge base, and a common ground for idea-exchanges. However, scientific publishing faces a bevy of challenges including: predatory journals, high demand for reviewers who get no compensation for their work, inherent trade-offs between expensive open-access publishing versus publishing in paywall journals, and strong incentives to publish Minimum Publishable Units to maximize citation counts and publications. While some of these problems are being addressed by the scientific community (notably with the explosion of pre-print servers), we think a video journal aimed at publishing cutting-edge science that can be understood by anyone will address the some of the core brokenness in academic publishing. More importantly, we think it can address a critical gap between science and society by connecting more people to our work and to us.  
+Two critical problems in society motivate the formation of this zine. 
 
-## What a video journal can do
+**First** there is a growing disconnect between science {are we trying to more broadly reach non-scientific academics e.g. filthy English profs} and society, driven by increasingly complex science that is [picked/pulled/action verb] apart by 
+misinformation campaigns and culture wars ... 
+
+...but also by the fundamental disconnect between how scientists publish our work and how
+people engage with new information. 
+
+This brings up the **second** problem: scientific publishing is broken [af, CITATION NEEDED]. 
+
+The core ideas that created modern scientific publishing remain critical to [advancing knowledge/furthering society]: peer-review, a continuously updating scientific knowledge base, and common grounds for idea-exchanges. 
+
+However, scientific publishing faces a number of challenges including: 
+predatory journals, lack of reviewer compensation,
+unacceptably long review times,
+and expensive open-access publishing. Ultimately, this all incentivizes publishing "Minimum Publishable Units"" to maximize citation counts and publications.
+
+[Need to critique the current "form" of publishing i.e. textual articles in static journals e.g. Matt's dope talk "Beyond the PDF"]
+
+Some of these problems are being addressed. Most notably with the explosion of pre-print servers, [which addresses many of the needs for more easily communicating information to _other scientists_ but does little to connect findings to the broader society]. 
+
+We believe a video [platform/ledger/fake-word] can fix all this garbo. One aimed at publishing cutting-edge science that can be understood by anyone will address the some of the core brokenness in academic publishing. [One not constrained by a single type of media.] 
+
+More importantly, we think it can address a critical gap between science and society by connecting more people to our work and to us.  
+
+## What a video platform can do
 
 + Supplement the archaic scientific publication machine with a modern alternative.
 + Provide an opportunity for scientists to communicate their work to a larger and broader audience.
-+ Overcome barriers to effective science communication: paywalls, exorbitant publishing fees, painfully dry and convoluted science prose.
-+ Compensate reviewers for their work.
++ Overcome barriers to effective science communication: paywalls, exorbitant publishing fees, painfully dry and convoluted science prose. 
++ Compensate reviewers for their work. 
 + Increase equity in access to scientific progress
-
 
 ## How this will work
 
@@ -47,16 +67,10 @@ the average citizen engages with information, which brings up the second problem
 + We will use our portion of revenue to grow the channel visibility, target collaborations with the large education focused YouTube channels, and generally work to connect more people to the science on our journal.
 
 
-## The Original (and Lazy Plan)
-
-1. Identify ~20-100 scientists, science communicators, or e-artists who will contribute an inaugural wave of short videos.
-2. Give them targeted guidance and set a submission date
-3. Build an attractive and informative web platform in which videos will be embedded. They'll be hosted on youtube.
-
-
 ## The Katy Plan
-1. Target 5 people who will make Beta videos.
-2. Work with these folks to make stunningly high quality examples of what our journal could do.
-3. Launch with these 5-7 videos and then iterate based on feedback
-4. Repeat with 10-15 people and again second launch (though no longer in Beta).
-5. Fully launch once 20 or so videos have been hosted and open up for general submission. 
+1. Target 5 people who will make beta videos [(i.e. kind of blah or whatevs. no big deal its chill)]
+2. Launch with these 5-7 videos and then iterate based on feedback
+3. Fully launch after a "soft opening"
+4. Repeat steps 1-3 [4ever]
+
+
