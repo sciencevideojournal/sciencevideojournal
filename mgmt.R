@@ -1,3 +1,4 @@
+setwd('~/git/direct2/')
 blogdown::config_Rprofile() # if .Rprofile exists, this opens it; if not, creates new
 # blogdown::new_site(theme = "wowchemy/starter-blog") #only needs to be run once
 blogdown::serve_site() #run this after restarting R
