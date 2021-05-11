@@ -24,17 +24,14 @@ title: Mission
 
 ## Mission Statement
 
-Two critical problems in society motivate the formation of this zine. 
+Two critical problems motivate the formation of Direct:
 
-**First** there is a growing disconnect between science {are we trying to more broadly reach non-scientific academics e.g. filthy English profs} and society, driven by increasingly complex science that is [picked/pulled/action verb] apart by 
-misinformation campaigns and culture wars ... 
+1. Research is getting increasingly complex, and its "distribution" is governed by a greedy and broken publication system.
+2. Trust in science is fading, while mis- and dis-information run rampant.
 
-...but also by the fundamental disconnect between how scientists publish our work and how
-people engage with new information. 
+The result is a growing disconnect between science and society.
 
-This brings up the **second** problem: scientific publishing is broken [af, CITATION NEEDED]. 
-
-The core ideas that created modern scientific publishing remain critical to [advancing knowledge/furthering society]: peer-review, a continuously updating scientific knowledge base, and common grounds for idea-exchanges. 
+The core ideas behind scientific publishing remain vital to : peer-review, a continuously updating scientific knowledge base, and common grounds for idea-exchanges. 
 
 However, scientific publishing faces a number of challenges including: 
 predatory journals, lack of reviewer compensation,
